@@ -1,0 +1,10 @@
+
+squid:UselessImportCheck-"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Ãş”«ıÿÿÿÿ8Óµƒ.
+hsquid:HiddenFieldCheckb"?Rename "descriptors" which hides the field declared at line 92.(­í†ô8Óµƒ.
+Ssquid:S1481Œ"/Remove this unused "myProperty" local variable.(ÆÙÆüÿÿÿÿÿ8Óµƒ.
+¥squid:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ª½ÿàüÿÿÿÿ8Óµƒ.
+Gsquid:S1148½"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Óµƒ.
+osquid:HiddenFieldChecki"ARename "relationships" which hides the field declared at line 94.(àÏ±Øúÿÿÿÿ8Óµƒ.
+½%squid:RedundantThrowsDeclarationCheck„"Remove the declaration of thrown exception 'org.apache.nifi.processor.exception.ProcessException' which is a runtime exception.(¿¨‘ıúÿÿÿÿ8Óµƒ.
+wsquid:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(­í†ô8Óµƒ.
+|squid:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(àÏ±Øúÿÿÿÿ8Óµƒ.

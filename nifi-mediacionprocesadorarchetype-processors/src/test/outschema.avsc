@@ -1,0 +1,11 @@
+{
+"type": "record",
+"name": "OUT",
+"fields": [
+   { "name": "I_Record_Type", "type": "string","default": ""},
+   { "name": "I_Account", "type": "string","default": ""},
+   { "name": "E_Formatted_Date","type": "string","default": ""},
+   { "name": "E_Find_DB","type": "string","default": ""},
+   { "name": "O_Tap_Label","type": "string","default": ""}
+  ]
+}

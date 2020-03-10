@@ -1,0 +1,25 @@
+[ {
+  "I_Record_Type" : "1",
+  "I_Account" : "100370201",
+  "E_Formatted_Date" : "",
+  "E_Find_DB" : "",
+  "O_Tap_Label" : ""
+}, {
+  "I_Record_Type" : "2",
+  "I_Account" : "100370201",
+  "E_Formatted_Date" : "",
+  "E_Find_DB" : "",
+  "O_Tap_Label" : ""
+}, {
+  "I_Record_Type" : "11",
+  "I_Account" : "100678202",
+  "E_Formatted_Date" : "",
+  "E_Find_DB" : "",
+  "O_Tap_Label" : ""
+}, {
+  "I_Record_Type" : "12",
+  "I_Account" : "100678202",
+  "E_Formatted_Date" : "",
+  "E_Find_DB" : "",
+  "O_Tap_Label" : ""
+} ]

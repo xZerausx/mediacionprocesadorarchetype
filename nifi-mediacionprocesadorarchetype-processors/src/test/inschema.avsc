@@ -1,0 +1,8 @@
+{
+"type": "record",
+"name": "IN",
+"fields": [
+   { "name": "I_Record_Type", "type": "string","default": ""},
+   { "name": "I_Account", "type": "string","default": ""}
+  ]
+}
